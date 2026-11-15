@@ -1,0 +1,10 @@
+{
+  "name": "MyEagle Quick Login",
+  "description": "A MyEagle chrome extension that helps you when you forget your W number.",
+  "version": 1.0,
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
