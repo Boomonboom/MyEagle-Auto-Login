@@ -1,0 +1,10 @@
+{
+  "name": "MyEagle Auto Login",
+  "description": "A extension to make the HCC student login page more bareable.",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  }
+}
